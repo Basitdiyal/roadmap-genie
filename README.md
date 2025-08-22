@@ -4,6 +4,9 @@
 
 Roadmap Genie is an end-to-end AI + Automation powered application built with **Streamlit** and **n8n**. It helps learners and professionals design **personalized roadmaps** for any skill or career path.
 
+<img width="1501" height="391" alt="Streamlit UI" src="https://github.com/user-attachments/assets/dc310a21-18d9-4760-a72e-1343ca5666f3" />
+
+
 <img width="1143" height="368" alt="AI Road Map Genie" src="https://github.com/user-attachments/assets/942332b2-2e3c-4cb3-8a1e-14dd3e76f5ff" />
 
 ✨ **Features:**
